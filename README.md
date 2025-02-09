@@ -1,8 +1,7 @@
 [![MasterHead](https://cdn-images-1.medium.com/v2/resize:fit:2600/1*CmjmgiI3Sr6oByNZ81pkhQ.jpeg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kavi Varshini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
-")
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavivarshini01&label=Profile%20views&color=0e75b6&style=flat" alt="kavivarshini01" /> </p>
